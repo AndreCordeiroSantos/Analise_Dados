@@ -1,2 +1,4 @@
 # Analise_Dados
 Análise de dados e Gráficos claros.
+
+O projeto consiste em um algoritmo em Python para análise de dados em tabelas Excel. Ele extrai informações como tamanho da tabela e quantidade de registros. Permite análises específicas por usuário, mostrando o total de registros associados a cada um. Os resultados são gerados em HTML com tabelas e gráficos claros. O código-fonte é documentado e está disponível no GitHub. Pode ser aplicado em várias áreas, como vendas e indicadores de desempenho. O algoritmo oferece uma solução corporativa para análise de dados em Python. Facilita a compreensão dos dados com visualização intuitiva. O repositório contém instruções e exemplos de aplicação. Incentiva a colaboração e contribuição da comunidade. Uma solução eficiente para extrair informações importantes de tabelas Excel.
